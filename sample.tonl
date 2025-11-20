@@ -1,0 +1,4 @@
+#version 1.0
+employees[2] {id:u32,name:str,department:str}:
+1, "John Doe", Engineering
+2, "Jane Smith", Design
