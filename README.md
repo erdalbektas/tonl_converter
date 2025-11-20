@@ -1,6 +1,6 @@
 # TONL Converter
 
-A Python library for converting to and from TONL (Token-Optimized Notation Language).
+A Python library for converting to and from [TONL](https://github.com/erdalbektas/tonl_converter) (Token-Optimized Notation Language).
 
 ## Features
 
